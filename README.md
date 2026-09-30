@@ -9,4 +9,3 @@ Root of the `sultonmusic.github.io` domain. The music station itself lives in
   [releases/android](https://github.com/sultonmusic/Spotify/releases/tag/android); when that APK is rebuilt with a
   new key, add the new fingerprint from the release's `assetlinks.json` to the list here.
 - `.nojekyll` keeps GitHub Pages from hiding the `.well-known` folder.
-- `index.html` forwards the bare domain to `/Spotify/`.
