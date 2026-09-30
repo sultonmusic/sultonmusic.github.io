@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {"namespace": "android_app", "package_name": "io.github.sultonmusic.cavi",
+             "sha256_cert_fingerprints": ["A1:21:99:73:54:F6:D9:87:1D:A7:B5:2C:43:75:03:58:FF:2E:07:88:E8:59:03:AD:84:0D:7A:AC:AE:4C:5A:7D"]}
+}]
